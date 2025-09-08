@@ -1,0 +1,19 @@
+{
+  "sprintInfo": {
+    "startDate": "2025-08-18",
+    "endDate": "2025-08-31"
+  },
+  "projects": [
+    { "id": 1, "name": "Plataforma de E-commerce 'Nexus'", "status": "current_sprint", "progress": 75, "startDate": "2025-08-18", "endDate": "2025-08-31", "completionYear": null },
+    { "id": 2, "name": "App Móvil 'Conecta'", "status": "current_sprint", "progress": 40, "startDate": "2025-08-18", "endDate": "2025-08-31", "completionYear": null },
+    { "id": 3, "name": "Sistema de Analítica 'Insight'", "status": "current_sprint", "progress": 90, "startDate": "2025-08-18", "endDate": "2025-08-31", "completionYear": null },
+    { "id": 4, "name": "Herramienta de CRM 'Fidelis'", "status": "queue", "progress": 0, "startDate": null, "endDate": null, "completionYear": null },
+    { "id": 5, "name": "Migración a Cloud 'Atlas'", "status": "queue", "progress": 0, "startDate": null, "endDate": null, "completionYear": null },
+    { "id": 6, "name": "Dashboard de Operaciones 'Control'", "status": "prioritized", "progress": 5, "startDate": null, "endDate": null, "completionYear": null },
+    { "id": 7, "name": "API de Pagos 'Mercurio'", "status": "testing", "progress": 95, "startDate": null, "endDate": null, "completionYear": null },
+    { "id": 8, "name": "Website Institucional 2.0", "status": "completed", "progress": 100, "startDate": "2024-01-10", "endDate": "2024-03-15", "completionYear": 2024 },
+    { "id": 9, "name": "Sistema de Inventario 'Stockify'", "status": "completed", "progress": 100, "startDate": "2024-04-01", "endDate": "2024-06-20", "completionYear": 2024 },
+    { "id": 10, "name": "Intranet Corporativa 'Unify'", "status": "completed", "progress": 100, "startDate": "2025-02-15", "endDate": "2025-05-30", "completionYear": 2025 },
+    { "id": 11, "name": "Plataforma de Contenidos 'Orion'", "status": "completed", "progress": 100, "startDate": "2025-01-20", "endDate": "2025-04-10", "completionYear": 2025 }
+  ]
+}
