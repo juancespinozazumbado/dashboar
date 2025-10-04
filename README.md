@@ -11,3 +11,5 @@ El siguiente es un MVP de la applicacion cliente para el dashboard
 # Next steps 
 build a node js + typescript back end..
 
+Connect to MySQL db.
+
