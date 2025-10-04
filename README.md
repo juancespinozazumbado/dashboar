@@ -8,3 +8,6 @@ El siguiente es un MVP de la applicacion cliente para el dashboard
 - node js
 - Vue js
 
+# Next steps 
+build a node js + typescript back end..
+
